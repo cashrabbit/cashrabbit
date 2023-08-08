@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cashrabbit
+- 👀 I’m interested in advancing my abilities
+- 🌱 I’m currently learning data structure applications and web design
+- 💞️ I’m looking to collaborate with everyone
